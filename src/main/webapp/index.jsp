@@ -55,7 +55,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to Rajinikanth DevOps Kitchen!</h1>
+    <h1>Welcome to Rajinikanth/swapnil DevOps Kitchen!</h1>
     <h2>Menu</h2>
 
     <div id="menu">
