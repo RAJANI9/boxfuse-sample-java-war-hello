@@ -55,7 +55,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to Rajinikanth Jenkins Cloud- post commit  change  </h1>
+    <h1>Welcome to Rajinikanth Jenkins Cloud-Jenkinss CI/CD post commit  change  </h1>
     <h2>Menu</h2>
 
     <div id="menu">
