@@ -20,7 +20,7 @@
 
         .menu-item {
             cursor: pointer;
-            padding: 10px;
+            padding: 10px;/
             border: 1px solid #ddd;
             margin: 5px;
             display: inline-block;
@@ -55,7 +55,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to Rajinikanth Jenkins Final changes Master PROD deploy </h1>
+    <h1>Welcome to Rajinikanth Jenkins-widget Final changes Master PROD deploy </h1>
     <h2>Menu</h2>
 
     <div id="menu">
