@@ -55,7 +55,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to Rajinikanth Jenkins Master PROD deploy </h1>
+    <h1>Welcome to Skr Jenkins Master PROD deploy </h1>
     <h2>Menu</h2>
 
     <div id="menu">
