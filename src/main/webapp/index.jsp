@@ -55,7 +55,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to Saikumar Jenkins  QA deploy </h1>
+    <h1>Welcome to SKR QA </h1>
     <h2>Menu</h2>
 
     <div id="menu">
