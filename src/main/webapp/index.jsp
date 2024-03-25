@@ -85,7 +85,7 @@
                 Biryani: ['Chicken Biryani', 'Mutton Biryani', 'Veg Biryani'],
                 Curries: ['Butter Chicken', 'Palak Paneer', 'Chana Masala'],
                 Pizzas: ['Margherita', 'Pepperoni', 'BBQ Chicken'],
-                Starters: ['Paneer Tikka', 'Chicken 65', 'Spring Rolls']
+                Starters: ['Paneer Tikka', 'Chicken 65', 'Spring Rolls', 'Chilli chicken']
             };
 
             var itemsList = subItems[category].map(function(item) {
