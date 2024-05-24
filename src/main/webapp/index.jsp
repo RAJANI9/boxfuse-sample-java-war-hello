@@ -55,7 +55,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to Rajinikanth Jenkins 7:30 AM Dev server deploy </h1>
+    <h1>Welcome to Rajinikanth Jenkins 7:30 AM Dev enviroment </h1>
     <h2>Menu</h2>
 
     <div id="menu">
