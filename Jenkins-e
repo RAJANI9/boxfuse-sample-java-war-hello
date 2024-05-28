@@ -4,7 +4,7 @@ pipeline {
       stages{
             stage("GIT checkout"){
             steps{
-                 git 'https://github.com/RAJANI9/boxfuse-sample-java-war-hello.git'
+                 git 'https://github.com/Kannammu/boxfuse-sample-java-war-hello.git'
               }
             }
             stage("build"){
