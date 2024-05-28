@@ -55,7 +55,7 @@
     </style>
 </head>
 <body>
-    <h1>Welcome to Rajinikanth Jenkins Final changes Master PROD deploy </h1>
+    <h1>Welcome to Rajinikanth Jenkins Final Changes Master PRODUCTION deploy </h1>
     <h2>Menu</h2>
 
     <div id="menu">
@@ -85,7 +85,7 @@
                 Biryani: ['Chicken Biryani', 'Mutton Biryani', 'Veg Biryani'],
                 Curries: ['Butter Chicken', 'Palak Paneer', 'Chana Masala'],
                 Pizzas: ['Margherita', 'Pepperoni', 'BBQ Chicken'],
-                Starters: ['Paneer Tikka', 'Chicken 65', 'Spring Rolls']
+                Starters: ['Paneer Tikka', 'Chicken 65', 'Spring Rolls', 'Chilli chicken']
             };
 
             var itemsList = subItems[category].map(function(item) {
